@@ -5,9 +5,4 @@ authors = ["skim"]
 edition = "2018"
 
 [dependencies]
-
-[profile.dev]
-panic = "abort"
-
-[profile.release]
-panic = "abort"
+bootloader = "0.8.9"
