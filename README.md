@@ -22,3 +22,9 @@ $ rustup run nightly cargo xrun # similar to previous command
 ```
 
 ### VGA Text Mode
+
+### Testing
+
+```
+$ rustup run nightly cargo xtest
+```
